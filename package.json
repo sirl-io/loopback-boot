@@ -1,6 +1,6 @@
 {
-  "name": "loopback-boot",
-  "version": "3.3.1",
+  "name": "@sirl-io/loopback-boot",
+  "version": "3.4.0",
   "description": "Convention-based bootstrapper for LoopBack applications",
   "keywords": [
     "StrongLoop",
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback-boot"
+    "url": "https://github.com/sirl-io/loopback-boot"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">=12"
   },
   "main": "index.js",
   "browser": "browser.js",

@@ -1,3 +1,9 @@
+2024-04-04, Version 3.4.0
+=========================
+
+ * Update boot to pass app into Model booting to support Mono-Repos (Bart Shappee)
+
+
 2019-06-24, Version 3.3.1
 =========================
 
